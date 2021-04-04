@@ -1,0 +1,23 @@
+{
+  "name": "content4zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-kada/content4zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-kada/content4zenn/issues"
+  },
+  "homepage": "https://github.com/k-kada/content4zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.79"
+  }
+}
